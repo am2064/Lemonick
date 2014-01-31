@@ -20,7 +20,7 @@
 			<nav class="top-bar" data-topbar>
 			<ul class="title-area">
 				<li class="name">
-				<h1><a href="index.php">Lemonfont</a></h1>
+				<h1><a href="index.php">Your Name Here!</a></h1>
 				</li>
 				<li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
 			</ul>
@@ -28,7 +28,7 @@
 			<section class="top-bar-section">
 			<!-- Right Nav Section -->
 			<ul class="right">
-				<li><a href="#">About The Comics</a></li>
+				<li><a href="about_comics.php">About The Comics</a></li>
 				<li class="has-dropdown">
 					<a href="#">Comics</a>
 					<ul class="dropdown">
@@ -46,7 +46,7 @@ foreach ($comics as $comic){
 ?>
 					</ul>
 				</li>
-				<li><a href="#">About The Author</a></li>
+				<li><a href="about.php">About The Author</a></li>
 			</ul>
 
 			<!-- Left Nav Section -->

@@ -67,6 +67,8 @@ foreach($updates as $update){
 ?>
 			</div>
 		</div>
+		<!--
+		If you so wish, you can place Ads here in a non-fancy fashion. Support for this in a nicer way will come later.
 		<div class="row">
 			<div class="panel">
 				<ul class="no-bullet">
@@ -77,6 +79,7 @@ foreach($updates as $update){
 				</ul>
 			</div>
 		</div>
+		-->
 	</div>
 	<div class="small-12 medium-10 columns">
 		<div class="row">
