@@ -5,7 +5,7 @@
 		<head>
 			<meta charset="utf-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<title>Lemon Font</title>
+			<title>Your Website Name Here!</title>
 			<link href="includes/favicon.ico" rel="icon" type="image/x-icon" />
 
 			<!-- If you are using CSS version, only link these 2 files, you may add app.css to use for your overrides if you like. -->
